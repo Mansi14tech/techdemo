@@ -1,4 +1,4 @@
 # techdemo
 this is my first repo
 <br>
-author - Mansi
+author - Mansi tech
